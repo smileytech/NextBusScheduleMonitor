@@ -1,4 +1,5 @@
-# Next Bus Schedule Monitor Rainmeter Skin ![](rainmeter-skin-sample.png?raw=true)
+# Next Bus Schedule Monitor Rainmeter Skin  
+![](rainmeter-skin-sample.png?raw=true)
 
 This is a [Rainmeter](http://rainmeter.net/) skin that will show the next two arrival times of a per-defined bus schedule based on the the current PC time.
 
